@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
-import SkillsComponent from "./components/SkillsComponent";
-import EducationComponent from "./components/EducationComponent";
-import WorkingExperience from "./components/WorkingExperience";
-import ProjectComponent from "./components/ProjectComponent";
-import ContactComponent from "./components/ContactComponent";
-import CertficatesComponents from "./components/CertficatesComponents";
-import CardComponent from "./components/CardComponent";
+import SkillsComponent from "./components/Skills";
+import EducationComponent from "./components/Education";
+import WorkingExperience from "./components/WorkEx";
+import ProjectComponent from "./components/Project";
+import ContactComponent from "./components/Contact";
+import CertficatesComponents from "./components/Certficates";
+import CardComponent from "./components/Card";
 
 function App() {
   return (
